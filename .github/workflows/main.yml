@@ -25,8 +25,8 @@ jobs:
           # Please create free account at https://platform.42crunch.com/register
           # Follow these steps to configure API_TOKEN https://docs.42crunch.com/latest/content/tasks/integrate_github_actions.htm
           api-token: ${{ secrets.API_TOKEN }}
-          min-score: 85
+          #min-score: 85
           platform-url: https://demolabs.42crunch.cloud
-          log-level: DEBUG
+          #log-level: DEBUG
           upload-to-code-scanning: true
           default-collection-name: OpenFinance-BR
