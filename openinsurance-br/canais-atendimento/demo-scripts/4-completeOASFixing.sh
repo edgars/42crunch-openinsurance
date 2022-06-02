@@ -1,6 +1,6 @@
 clear
-echo '🛡🎢 Reseting Github Actions Accept better Score'
-cp ./templates/3.reset-all-demo-messed-oas.txt ../../canais-atendimento/nodejs-server-server-generated/api/openapi.yaml
+echo '🛡🎢 Reseting Github Actions - Fixed OAS 90+'
+cp ./templates/4.done_api.txt ../../canais-atendimento/nodejs-server-server-generated/api/openapi.yaml
 echo '✋ Please, removing the file ../../nodejs-server-server-generated/openapi.yaml'
 echo '😱 Git remove and add the openapi.yaml'
 git rm --cached ../../canais-atendimento/nodejs-server-server-generated/api/openapi.yaml
