@@ -44,7 +44,7 @@ paths:
           minimum: 1
           type: integer
           default: 25
-          maximum: 1000
+          maximum: 100
           format: int32
       responses:
         "200":
