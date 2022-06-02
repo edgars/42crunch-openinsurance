@@ -4,7 +4,7 @@ x-42c-skipIssues:
 info:
   title: API - Canais de Atendimento
   description: As APIs descritas neste documento são referentes as APIs da fase Open
-    Data do Open Insurance Brasil.
+    Data do Open Insurance Brasil. Changed Github
   contact:
     url: https://openinsurance.susep.gov.br
   version: 1.0.0
