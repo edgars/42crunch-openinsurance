@@ -1,5 +1,7 @@
 openapi: 3.0.0
 x-42c-skipIssues:
+   - v3-schema-request-numerical-format
+   - v3-response-default-undefined
    - v3-operation-security
 info:
   title: API - Canais de Atendimento
