@@ -7,5 +7,8 @@ echo '😱 Git remove and add the new main.yml'
 git rm --cached ../../../.github/workflows/main.yml
 git add .
 
-echo '🎉 Now time to see the changes via VS Code and Stage them or use git commit and push in terminal 🎉'
+cp ./templates/1.oas_with_issues.txt ../../canais-atendimento/nodejs-server-server-generated/api/openapi.yaml
+echo '😱 Git remove and add the openapi.yaml'
+git rm --cached ../../canais-atendimento/nodejs-server-server-generated/api/openapi.yaml
+git add .
 
